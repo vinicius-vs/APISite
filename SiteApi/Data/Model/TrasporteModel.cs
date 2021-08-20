@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Data.Model
 {
-    class TrasporteModel:BaseModel
+    public class TrasporteModel : BaseModel
     {
         public string Type { get; set; }
         public string Description { get; set; }

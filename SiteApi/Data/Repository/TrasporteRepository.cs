@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Data.Repository
 {
-    class TrasporteRepository:BaseRepository<TrasporteModel>
+    public class TrasporteRepository : BaseRepository<TrasporteModel>
     {
     }
 }
